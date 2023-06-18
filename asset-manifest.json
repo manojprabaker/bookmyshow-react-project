@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/bookmyshow-react-project/static/css/main.bc283fb8.css",
-    "main.js": "/bookmyshow-react-project/static/js/main.2b77efea.js",
+    "main.js": "/bookmyshow-react-project/static/js/main.88fb37dc.js",
     "static/js/787.71e672d5.chunk.js": "/bookmyshow-react-project/static/js/787.71e672d5.chunk.js",
     "static/media/bicycle.jpg": "/bookmyshow-react-project/static/media/bicycle.d841464c26f96f68d79b.jpg",
     "static/media/bus.png": "/bookmyshow-react-project/static/media/bus.c654eabc37905c114349.png",
@@ -15,11 +15,11 @@
     "index.html": "/bookmyshow-react-project/index.html",
     "static/media/slick.woff": "/bookmyshow-react-project/static/media/slick.295183786cd8a1389865.woff",
     "main.bc283fb8.css.map": "/bookmyshow-react-project/static/css/main.bc283fb8.css.map",
-    "main.2b77efea.js.map": "/bookmyshow-react-project/static/js/main.2b77efea.js.map",
+    "main.88fb37dc.js.map": "/bookmyshow-react-project/static/js/main.88fb37dc.js.map",
     "787.71e672d5.chunk.js.map": "/bookmyshow-react-project/static/js/787.71e672d5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bc283fb8.css",
-    "static/js/main.2b77efea.js"
+    "static/js/main.88fb37dc.js"
   ]
 }
